@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726008996 source:c:\users\alumno-08\desktop\rehaciendoparcial2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
