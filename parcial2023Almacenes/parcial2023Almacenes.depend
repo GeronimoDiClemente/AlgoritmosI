@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726092630 source:c:\users\geronimo di clemente\desktop\recuperatorio primer parcial\rehaciendo parcial 2023\parcial2023almacenes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
