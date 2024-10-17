@@ -1,0 +1,66 @@
+//CARGAR LISTA 
+
+void cargarLista (TLISTA *pl)
+{
+	FILE *arch;
+	TLISTA ult;
+	arch = fopen("ARCHIVO.txt","rt");
+	*pl = NULL;
+	 if (arch == NULL)
+		 printf ("NULO");
+	 else 
+	 {
+		 while (fscanf("")== )
+		 {
+			 if (*pl == NULL)
+			{
+				*pl = (TLISTA)malloc(sizeof(NODO));
+				ult = ult->sig;
+			}
+			else 
+			{
+				ult->sig = (TLISTA)malloc(sizeof(NODO));
+				ult = ult->sig;
+			}
+			//DAR VALOR A LA LISTA 
+		 }
+		 ult->sig = NULL;
+		 
+	 }
+}
+
+void muestraLista (TLISTA pl) //SI HAY SUBLISTA SE MUESTRA CON AUX 
+{
+	while (pl != NULL)
+	{
+		printf("");
+		pl = pl->sig;
+	}
+}
+
+//ELIMINACION
+if (ant == NULL) //PRIMER ELEMNTO
+ {
+	elim = *pl; // LE ASIGNO LA CABEZA A ELIM 
+	*pl = (*pl)->sig; //MUEVO LA CABEZA AL SIGUIENTE 
+	free(elim); //LIBERO ELIM
+	act = *pl; //LE ASIGNO LA NUEVA CABEZA A ACT
+}
+else //MEDIO DE LA LISTA
+{
+	ant->sig = act->sig; //MODIFICO LOS ENLACES DE LOS NODOS 
+	free(act); //LIBERO ACTUAL
+	act = ant->sig; //ASIGNO NUEVO ACTUAL
+}
+ 
+//INSERCION
+if (ant == NULL)  //PRIMERA POSCICION	
+{
+	nuevo->sig = pl; //NUEVO APUNTA A LA CABEZA ACTUAL
+	pl = nuevo;//LA NUEVA CABEZA ES NUEVO
+}
+else 
+{
+	nuevo->sig = act; //NUEVO APUNTA A ACTUAL 
+	ant->sig = nuevo; //EL ANTERIOR APUNTA AL NUEVO 
+}
