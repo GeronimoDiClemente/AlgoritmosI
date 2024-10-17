@@ -1,0 +1,6 @@
+1 3 BBB CCC ZZZ
+2 1 AAA
+4 0 
+5 2 CCC DDD
+6 1 EEE
+ 

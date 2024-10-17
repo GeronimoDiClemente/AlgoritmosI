@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1637702364 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapila.h"
+	"tdacola.h"
+
+1634738764 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdapila.c
+	"tdapila.h"
+
+1637683797 d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdapila.h
+
+1634076974 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdacola.c
+	"tdacola.h"
+
+1637701306 d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdacola.h
+
+1634076974 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdacola.c
+	"tdacola.h"
+
+1637701308 c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdacola.h
+
+1634738764 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdapila.c
+	"tdapila.h"
+
+1637683798 c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2012\segundoparcial2012\tdapila.h
+

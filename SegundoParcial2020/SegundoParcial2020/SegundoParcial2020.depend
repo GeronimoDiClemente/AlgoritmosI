@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1637591596 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2020\segundoparcial2020\tdacola.c
+	"tdacola.h"
+
+1637605075 d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2020\segundoparcial2020\tdacola.h
+
+1637678513 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\segundoparcial2020\segundoparcial2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdacola.h"
+
+1729017439 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2020\segundoparcial2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdacola.h"
+
+1729017128 c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2020\segundoparcial2020\tdacola.h
+
+1729017128 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\segundoparcial2020\segundoparcial2020\tdacola.c
+	"tdacola.h"
+
