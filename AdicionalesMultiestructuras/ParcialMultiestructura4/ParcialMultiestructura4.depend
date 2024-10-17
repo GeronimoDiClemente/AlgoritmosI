@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636559098 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h.>
+	"tdacola.h"
+
+1634076972 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura4\tdacola.c
+	"tdacola.h"
+
+1636548469 d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura4\tdacola.h
+

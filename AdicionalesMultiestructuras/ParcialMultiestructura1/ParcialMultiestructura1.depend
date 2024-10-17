@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1636570852 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionales multiestructuras\parcialmultiestructura1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636574202 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapila.h"
+
+1634738762 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\tdapila.c
+	"tdapila.h"
+
+1636573452 d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\tdapila.h
+
+1636574202 source:e:\facultad\anio1\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapila.h"
+
+1636573452 e:\facultad\anio1\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\tdapila.h
+
+1636574202 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapila.h"
+
+1636573452 c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura1\tdapila.h
+

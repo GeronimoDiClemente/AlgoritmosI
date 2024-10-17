@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1637846694 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapilad.h"
+
+1637793218 d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura3\tdapilad.h
+
+1633874990 source:d:\joaquin\facultad\cuatrimestre2\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura3\tdapilad.c
+	"tdapilad.h"
+	<stdlib.h>
+
+1637846696 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapilad.h"
+
+1637793220 c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura3\tdapilad.h
+
+1633874990 source:c:\users\geronimo di clemente\desktop\algoritmosestructurasdatos1\algoritmosestructurasdatos1\algoritmosestructurasdatos1\ejercicios\adicionalesmultiestructuras\parcialmultiestructura3\tdapilad.c
+	"tdapilad.h"
+	<stdlib.h>
+
