@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1637433290 source:d:\algoritmos i\y - repaso parcial 2\parcialbrunito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdacola.h"
+
+1637428410 d:\algoritmos i\y - repaso parcial 2\parcialbrunito\tdacola.h
+
+1633874946 source:d:\algoritmos i\y - repaso parcial 2\parcialbrunito\tdacola.c
+	"tdacola.h"
+
+1645639440 source:c:\users\geronimo di clemente\desktop\2do parcial algoritmos\y - repaso parcial 2\parcialbrunito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdacola.h"
+
+1645639441 c:\users\geronimo di clemente\desktop\2do parcial algoritmos\y - repaso parcial 2\parcialbrunito\tdacola.h
+
+1645639441 source:c:\users\geronimo di clemente\desktop\2do parcial algoritmos\y - repaso parcial 2\parcialbrunito\tdacola.c
+	"tdacola.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637690961 source:c:\users\inakipc\desktop\caece 21\2do cuatrimestre\algoritmos i\y - repaso parcial 2\parcialmusica\tdapila.c
+	"tdapila.h"
+
+1637689917 c:\users\inakipc\desktop\caece 21\2do cuatrimestre\algoritmos i\y - repaso parcial 2\parcialmusica\tdapila.h
+
+1637700412 source:c:\users\inakipc\desktop\caece 21\2do cuatrimestre\algoritmos i\y - repaso parcial 2\parcialmusica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdapila.h"
+
